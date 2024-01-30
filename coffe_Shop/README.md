@@ -46,8 +46,8 @@ Uygulamayı çalıştırmak için şu adımları takip edebilirsiniz:
 
 Eğer herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen aşağıdaki iletişim bilgilerinden bana ulaşın:
 
-- E-posta: [deneme@gmail.com](mailto:deneme@gmail.com)
-- Telefon: [+90503478523953](tel:+90503478523953)
+- E-posta: [dikicimustafaemre@gmail.com](mailto:dikicimustafaemre@gmail.com)
+
 
 ## Lisans
 
