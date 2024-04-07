@@ -24,7 +24,7 @@ Uygulamayı açtığınızda, karşınıza kullanıcı dostu bir arayüz çıkar
 ## Projeye Katkıda Bulunun
 
 - Geri bildirimleriniz bizim için önemlidir! Uygulamayı kullanırken yaşadığınız her türlü deneyimi bizimle paylaşın.
-- Projeye katkıda bulunmak için [GitHub](https://github.com/dikiciemre/life-calculate) üzerinden fork edin ve pull request gönderin.
+- Projeye katkıda bulunmak için [GitHub]([https://github.com/dikiciemre/life-calculate](https://github.com/dikiciemre/FLUTTER/tree/main/lifeclaculate)) üzerinden fork edin ve pull request gönderin.
 
 Life Calculate ile daha uzun ve daha sağlıklı bir yaşam için bugün ilk adımı atın!
 
@@ -66,7 +66,7 @@ When you open the app, you'll encounter a user-friendly interface. Simply enter 
 ## Contributing to the Project
 
 - Your feedback is important to us! Share any experiences you have while using the app.
-- To contribute to the project, fork it on [GitHub](https://github.com/your-username/life-calculate) and submit a pull request.
+- To contribute to the project, fork it on [GitHub]([https://github.com/your-username/life-calculate](https://github.com/dikiciemre/FLUTTER/tree/main/lifeclaculate)) and submit a pull request.
 
 Take the first step today towards a longer and healthier life with Life Calculate!
 
