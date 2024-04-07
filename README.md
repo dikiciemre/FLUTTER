@@ -26,17 +26,9 @@ Bu README dosyası, Flutter'ı bilgisayarınıza nasıl kuracağınızı adım a
    ```bash
    export PATH="$PATH:/path/to/flutter/bin"
 Dizini Flutter'ın yüklü olduğu dizinle değiştirin.
+## Adım 3: Flutter'ı Doğrulama
 
-Adım 3: Flutter'ı Doğrulama
-Bir terminal veya komut istemcisini açın.
-flutter doctor komutunu çalıştırın.
+1. Bir terminal veya komut istemcisini açın.
+2. `flutter doctor` komutunu çalıştırın.
+
 Bu komut, Flutter ve bağımlılıklarının doğru bir şekilde yüklendiğini ve yapılandırıldığını kontrol edecektir.
-
-Sonuç
-Flutter'ı başarıyla kurduysanız, artık Flutter projeleri oluşturabilir ve geliştirebilirsiniz.
-
-Lisans
-Bu README dosyası [lisans adı] altında lisanslanmıştır. Daha fazla bilgi için LICENCE dosyasına bakın.
-
-İletişim
-Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen [email protected] adresiyle iletişime geçin.
